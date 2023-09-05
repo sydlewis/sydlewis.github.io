@@ -1,5 +1,6 @@
 ---
 title: "Sydney Lewis"
+image: "sydlewis.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/sydneyvlewis/"
@@ -14,7 +15,7 @@ output:
 ## Bio
   
 Sydney Lewis is a graduate student at Johns Hopkins Bloomberg School of Public Health.
-She is studying epidemiology with a focus on pharmacoepidemiology. 
+She is studying epidemiology with a focus on pharmacoepidemiology.
 
 
 ## Education
