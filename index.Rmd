@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "mailto:slewi100@jh.edu"
 output:
-  postcards::solana
+  postcards::trestles
 ---
   
 ## Bio
