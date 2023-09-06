@@ -14,15 +14,22 @@ output:
   
 ## Bio
   
-Sydney Lewis is a graduate student at Johns Hopkins Bloomberg School of Public Health.
-She is studying epidemiology with a focus on pharmacoepidemiology.
+Hi! I'm a graduate student at Johns Hopkins Bloomberg School of Public Health.
+She is studying epidemiology with a focus on pharmacoepidemiology. I'm excited 
+for future opportunities to learn more about drug development, safety, and utilization.
 
+Outside of school, I love to run, sew, and cook. I'm originally from Southern 
+California and I'm having so much fun exploring Baltimore!
 
 ## Education
 
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+ScM (in progress) | 2023 - present
+
 **Reed College** | Portland, OR
 
-B.A. | August 2014 - May 2018
+BA in Sociology | 2014 - 2018
 
 
 ## Experience
@@ -32,3 +39,11 @@ B.A. | August 2014 - May 2018
 **Analyst** | Family Health Centers of San Diego | 2020 - 2021
 
 **Health Educator** | Family Health Centers of San Diego | 2019 - 2020
+
+**Health Promotions Volunteer** | American Red Cross | 2018 - 2019
+
+**Outreach Coordinator** | Reed College Wellness Center | 2015 - 2018
+
+**Health Education Intern** | Breathe DC | Summer 2017
+
+**Community Health Intern** | American Lung Association | Summers 2015 & 2016
