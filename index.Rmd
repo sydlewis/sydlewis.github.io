@@ -14,8 +14,8 @@ output:
   
 ## Bio
   
-Hi! I'm a graduate student at Johns Hopkins Bloomberg School of Public Health.
-She is studying epidemiology with a focus on pharmacoepidemiology. I'm excited 
+Hi! I'm a graduate student at Johns Hopkins Bloomberg School of Public Health and 
+I'm studying epidemiology with a focus on pharmacoepidemiology. I'm excited 
 for future opportunities to learn more about drug development, safety, and utilization.
 
 Outside of school, I love to run, sew, and cook. I'm originally from Southern 
