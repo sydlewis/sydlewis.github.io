@@ -1,6 +1,7 @@
 ---
 title: "Sydney Lewis"
 image: "sydlewis.jpeg"
+favicon: "favicon.ico"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/sydneyvlewis/"
@@ -12,16 +13,16 @@ output:
   postcards::trestles
 ---
   
-## Bio
+## 🍉 Bio 
   
 Hi! I'm a graduate student at Johns Hopkins Bloomberg School of Public Health and 
 I'm studying epidemiology with a focus on pharmacoepidemiology. I'm excited 
 for future opportunities to learn more about drug development, safety, and utilization.
 
-Outside of school, I love to run, sew, and cook. I'm originally from Southern 
+Outside of school, I love to run 👟, sew 🧵, and cook 🥗. I'm originally from Southern 
 California and I'm having so much fun exploring Baltimore!
 
-## Education
+## 📊 Education 
 
 **Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
@@ -32,7 +33,7 @@ ScM (in progress) | 2023 - present
 BA in Sociology | 2014 - 2018
 
 
-## Experience
+## 🌳 Experience 
 
 **Study Coordinator** | Family Health Centers of San Diego | 2021 - 2023
 
