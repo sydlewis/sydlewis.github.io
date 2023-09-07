@@ -3,11 +3,11 @@ title: "Sydney Lewis"
 image: "sydlewis.jpeg"
 favicon: "favicon.ico"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", fill = "mediumvioletred")` LinkedIn'
     url: "https://www.linkedin.com/in/sydneyvlewis/"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", fill = "mediumvioletred")` Github'
     url: "https://github.com/sydlewis"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope", fill = "mediumvioletred")` Email'
     url: "mailto:slewi100@jh.edu"
 output:
   postcards::trestles
