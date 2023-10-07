@@ -17,7 +17,7 @@ output:
   
 Hi! I'm a graduate student at Johns Hopkins Bloomberg School of Public Health and 
 I'm studying epidemiology with a focus on pharmacoepidemiology. I'm excited 
-for future opportunities to learn more about drug development, safety, and utilization.
+for future opportunities to learn more about drug safety, utilization, and effectiveness.
 
 Outside of school, I love to run 👟, sew 🧵, and cook 🥗. I'm originally from Southern 
 California and I'm having so much fun exploring Baltimore!
@@ -26,7 +26,7 @@ California and I'm having so much fun exploring Baltimore!
 
 **Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
-ScM (in progress) | 2023 - present
+ScM in Epidemiology (in progress) | 2023 - present
 
 **Reed College** | Portland, OR
 
